@@ -55,13 +55,7 @@ Kalander is designed to be **fast, lightweight, and easy to use**, making it per
 
 ---
 
-## 🌐 Deployment
-
-Kalander can be easily deployed on:
-
-- **Vercel**
-- **Netlify**
-- **GitHub Pages**
+live Link
 
 ---
 
